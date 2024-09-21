@@ -1,6 +1,7 @@
 # Git-tags
 
 Q. How to place image (.png, .jpeg ,etc)inside repository ?
+
 Answer 
 step 1 . first clone repository in local directory 
          git clone https://github.com/username/repository.git
